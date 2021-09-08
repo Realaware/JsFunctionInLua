@@ -51,3 +51,5 @@ function Functions.new(func)
       })   
    end
 end
+
+return Functions
